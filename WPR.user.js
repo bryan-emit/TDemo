@@ -2,7 +2,7 @@
 // @name              Test
 // @description       Test Desc
 // @namespace         https://github.com/
-// @version           8.0.1
+// @version           1.0.1
 // @match             https://*.azurewebsites.net/*
 // @include           https://*.azurewebsites.net/*
 // @noframes
@@ -31,4 +31,4 @@
 // @downloadURL       https://github.com/bryan-emit/TDemo/raw/main/WPR.user.js
 // @homepageURL       https://github.com/
 // ==/UserScript==
-console.log('888.00');
+console.log('111.00');
