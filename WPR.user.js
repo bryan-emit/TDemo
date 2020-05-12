@@ -28,7 +28,7 @@
 // @nocompat
 // @author            WPR
 // @license           MPL-2.0
-// @downloadURL       https://github.com/bryan-emit/Test/raw/master/WPR.user.js
+// @downloadURL       https://github.com/bryan-emit/TDemo/raw/main/WPR.user.js
 // @homepageURL       https://github.com/
 // ==/UserScript==
 console.log('777.00');
